@@ -3,7 +3,7 @@
 
 num1 = int(input("Enter your first numers: "))
 operator = input("Enter the operator: ")
-num2 = int((input("Enter your second number: ")))
+num2 = int(input("Enter your second number: "))
 
 
 if operator == '+':
