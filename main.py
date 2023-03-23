@@ -1,7 +1,7 @@
 
 # Start of Basic Calculator
 
-num1 = int(input("Enter your first numers: "))
+num1 = int(input("Enter your first number: "))
 operator = input("Enter the operator: ")
 num2 = int(input("Enter your second number: "))
 
